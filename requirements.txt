@@ -1,0 +1,10 @@
+anthropic>=0.25.0
+pdfplumber>=0.10.3
+chromadb>=0.4.24
+sentence-transformers>=2.7.0
+pydantic>=2.6.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+scipy>=1.13.0
+python-dotenv>=1.0.0
+
