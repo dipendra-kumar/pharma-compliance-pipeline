@@ -1,7 +1,5 @@
-
 """
-Test Agent 2 in isolation.
-Usage: python test_agent2.py
+Test Agent 2 in isolation.          
 """
 import sys
 import os

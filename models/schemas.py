@@ -14,22 +14,21 @@ class ExtractedRecord(BaseModel):
     unit: Optional[str] = Field(None, description="Unit of measurement e.g. °C, % RH")
     row_context: Optional[str] = Field(None, description="Extra context like month/area for this row")
 
-
 class ValidationRecord(BaseModel):
-    """
-    Output of Agent 2 (Validation Agent).
-    Extends ExtractedRecord with compliance check results.
-    """
+
     section_heading: str
     table_name: str
     parameter: str
     extracted_value: float | str
     unit: Optional[str]
     row_context: Optional[str]
-    compliance_range: str = Field(..., description="The rule used for validation e.g. NMT 25°C")
-    validation_status: str = Field(..., description="PASS or FAIL")
-    validation_note: Optional[str] = Field(None, description="Reason for FAIL if applicable")
 
+    compliance_range: str
+
+    validation_status: str
+    # PASS / FAIL / QUALITY_ISSUE / SKIPPED
+
+    validation_note: Optional[str] = None
 
 class AnalyticalSummary(BaseModel):
     """
