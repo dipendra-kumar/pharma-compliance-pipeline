@@ -41,13 +41,16 @@ class AnalyticalSummary(BaseModel):
     count: int
     mean: float
     median: float
+    mode: Optional[float] = Field(None, description="Mode of observations; None if no unique mode")
     std_dev: float
     min_value: float
     max_value: float
     cpk: Optional[float] = Field(None, description="Process Capability Index if limits are numeric")
+    trend: str = Field("INSUFFICIENT_DATA", description="STABLE / INCREASING / DECREASING / INSUFFICIENT_DATA")
     pass_count: int
     fail_count: int
     insight: str = Field(..., description="Human-readable pharmacological/analytical insight")
+    chart_files: list[str] = Field(default_factory=list, description="Paths to generated PNG charts for this parameter")
 
 
 class PipelineOutput(BaseModel):

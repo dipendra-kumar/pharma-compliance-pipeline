@@ -1,0 +1,2130 @@
+[
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 4.0,
+    "unit": "",
+    "row_context": "4 | Purified Water"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "overages(%)_30%_nil",
+    "extracted_value": 30.0,
+    "unit": "",
+    "row_context": "4 | Purified Water"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 5.0,
+    "unit": "",
+    "row_context": "5 | Croscarmellose Sodium (Ac-di-sol SD711), USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "input_quantity_per_tablet_in_mg_6000_13868_40000",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "5 | Croscarmellose Sodium (Ac-di-sol SD711), USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 6.0,
+    "unit": "",
+    "row_context": "6 | Magnesium Stearate, USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "input_quantity_per_tablet_in_mg_6000_13868_40000",
+    "extracted_value": 0.4,
+    "unit": "",
+    "row_context": "6 | Magnesium Stearate, USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 7.0,
+    "unit": "",
+    "row_context": "7 | Pregelatinised starch (Starch 1500), USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "input_quantity_per_tablet_in_mg_6000_13868_40000",
+    "extracted_value": 84.132,
+    "unit": "",
+    "row_context": "7 | Pregelatinised starch (Starch 1500), USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 8.0,
+    "unit": "",
+    "row_context": "8 | Croscarmellose Sodium (Ac-di-sol SD711)"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "input_quantity_per_tablet_in_mg_6000_13868_40000",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "8 | Croscarmellose Sodium (Ac-di-sol SD711)"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 9.0,
+    "unit": "",
+    "row_context": "9 | Silicified Microcrystalline Cellulose (Prosolv SMCC 90)"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "input_quantity_per_tablet_in_mg_6000_13868_40000",
+    "extracted_value": 55.0,
+    "unit": "",
+    "row_context": "9 | Silicified Microcrystalline Cellulose (Prosolv SMCC 90)"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "sr_no_1_2_3",
+    "extracted_value": 10.0,
+    "unit": "",
+    "row_context": "10 | Silicified Microcrystalline Cellulose (Prosolv SMCC 90), USPNF"
+  },
+  {
+    "section_heading": "3.0 Review of Master Batch Formula & Master Documents",
+    "table_name": "p1_table2",
+    "parameter": "input_quantity_per_tablet_in_mg_6000_13868_40000",
+    "extracted_value": 55.0,
+    "unit": "",
+    "row_context": "10 | Silicified Microcrystalline Cellulose (Prosolv SMCC 90), USPNF"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 19.5,
+    "unit": "",
+    "row_context": "Mar-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 23.1,
+    "unit": "",
+    "row_context": "Mar-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 15.6,
+    "unit": "",
+    "row_context": "Mar-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 25.1,
+    "unit": "",
+    "row_context": "Mar-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Mar-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Mar-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 20.1,
+    "unit": "",
+    "row_context": "Mar-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 20.7,
+    "unit": "",
+    "row_context": "Mar-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 50.4,
+    "unit": "",
+    "row_context": "Mar-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 51.2,
+    "unit": "",
+    "row_context": "Mar-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Mar-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Mar-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 22.1,
+    "unit": "",
+    "row_context": "Mar-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.7,
+    "unit": "",
+    "row_context": "Mar-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 53.2,
+    "unit": "",
+    "row_context": "Mar-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 53.9,
+    "unit": "",
+    "row_context": "Mar-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 3.2,
+    "unit": "",
+    "row_context": "Mar-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 3.2,
+    "unit": "",
+    "row_context": "Mar-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 20.2,
+    "unit": "",
+    "row_context": "Mar-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.7,
+    "unit": "",
+    "row_context": "Mar-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 32.9,
+    "unit": "",
+    "row_context": "Mar-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 38.9,
+    "unit": "",
+    "row_context": "Mar-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Mar-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Mar-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.5,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.2,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 49.5,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 52.3,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 18.1,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 18.3,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 39.7,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 40.2,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.6,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.8,
+    "unit": "",
+    "row_context": "Mar-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.4,
+    "unit": "",
+    "row_context": "Mar-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 21.4,
+    "unit": "",
+    "row_context": "Mar-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 52.6,
+    "unit": "",
+    "row_context": "Mar-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 52.6,
+    "unit": "",
+    "row_context": "Mar-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Mar-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Mar-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.8,
+    "unit": "",
+    "row_context": "Mar-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.2,
+    "unit": "",
+    "row_context": "Mar-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 55.0,
+    "unit": "",
+    "row_context": "Mar-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 57.0,
+    "unit": "",
+    "row_context": "Mar-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "Mar-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "Mar-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 19.1,
+    "unit": "",
+    "row_context": "May-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 20.6,
+    "unit": "",
+    "row_context": "May-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 34.2,
+    "unit": "",
+    "row_context": "May-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 35.3,
+    "unit": "",
+    "row_context": "May-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "May-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.8,
+    "unit": "",
+    "row_context": "May-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 19.3,
+    "unit": "",
+    "row_context": "May-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.6,
+    "unit": "",
+    "row_context": "May-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 23.5,
+    "unit": "",
+    "row_context": "May-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 32.8,
+    "unit": "",
+    "row_context": "May-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "May-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "May-23 | Blender III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.5,
+    "unit": "",
+    "row_context": "May-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.4,
+    "unit": "",
+    "row_context": "May-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 56.2,
+    "unit": "",
+    "row_context": "May-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 58.8,
+    "unit": "",
+    "row_context": "May-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.6,
+    "unit": "",
+    "row_context": "May-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.6,
+    "unit": "",
+    "row_context": "May-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 20.1,
+    "unit": "",
+    "row_context": "May-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 20.1,
+    "unit": "",
+    "row_context": "May-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 31.4,
+    "unit": "",
+    "row_context": "May-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 31.8,
+    "unit": "",
+    "row_context": "May-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "May-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "May-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 19.6,
+    "unit": "",
+    "row_context": "May-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 21.3,
+    "unit": "",
+    "row_context": "May-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 52.1,
+    "unit": "",
+    "row_context": "May-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 55.8,
+    "unit": "",
+    "row_context": "May-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "May-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.6,
+    "unit": "",
+    "row_context": "May-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 19.1,
+    "unit": "",
+    "row_context": "Jun-23 | Bottle Filling and Capping- II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 20.4,
+    "unit": "",
+    "row_context": "Jun-23 | Bottle Filling and Capping- II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 54.3,
+    "unit": "",
+    "row_context": "Jun-23 | Bottle Filling and Capping- II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 57.8,
+    "unit": "",
+    "row_context": "Jun-23 | Bottle Filling and Capping- II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 27.0,
+    "unit": "",
+    "row_context": "Jun-23 | Bottle Filling and Capping- II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 34.0,
+    "unit": "",
+    "row_context": "Jun-23 | Bottle Filling and Capping- II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 22.4,
+    "unit": "",
+    "row_context": "Jun-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.7,
+    "unit": "",
+    "row_context": "Jun-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 45.1,
+    "unit": "",
+    "row_context": "Jun-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 47.7,
+    "unit": "",
+    "row_context": "Jun-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.8,
+    "unit": "",
+    "row_context": "Jun-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.8,
+    "unit": "",
+    "row_context": "Jun-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 23.1,
+    "unit": "",
+    "row_context": "Jun-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 23.4,
+    "unit": "",
+    "row_context": "Jun-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 33.0,
+    "unit": "",
+    "row_context": "Jun-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 34.6,
+    "unit": "",
+    "row_context": "Jun-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Jun-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Jun-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 22.4,
+    "unit": "",
+    "row_context": "Jun-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 23.7,
+    "unit": "",
+    "row_context": "Jun-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 56.0,
+    "unit": "",
+    "row_context": "Jun-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 57.4,
+    "unit": "",
+    "row_context": "Jun-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Jun-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Jun-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.6,
+    "unit": "",
+    "row_context": "Jun-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.3,
+    "unit": "",
+    "row_context": "Jun-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 52.0,
+    "unit": "",
+    "row_context": "Jun-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 54.0,
+    "unit": "",
+    "row_context": "Jun-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Jun-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Jun-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 20.4,
+    "unit": "",
+    "row_context": "Oct-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.9,
+    "unit": "",
+    "row_context": "Oct-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 30.2,
+    "unit": "",
+    "row_context": "Oct-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 43.2,
+    "unit": "",
+    "row_context": "Oct-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 1.8,
+    "unit": "",
+    "row_context": "Oct-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.8,
+    "unit": "",
+    "row_context": "Oct-23 | Blender II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.4,
+    "unit": "",
+    "row_context": "Oct-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 24.1,
+    "unit": "",
+    "row_context": "Oct-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 54.1,
+    "unit": "",
+    "row_context": "Oct-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 55.4,
+    "unit": "",
+    "row_context": "Oct-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.6,
+    "unit": "",
+    "row_context": "Oct-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 3.8,
+    "unit": "",
+    "row_context": "Oct-23 | Dispensing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.8,
+    "unit": "",
+    "row_context": "Oct-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.7,
+    "unit": "",
+    "row_context": "Oct-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 47.6,
+    "unit": "",
+    "row_context": "Oct-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 48.4,
+    "unit": "",
+    "row_context": "Oct-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Oct-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "Oct-23 | Granulation X"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.3,
+    "unit": "",
+    "row_context": "Nov-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.2,
+    "unit": "",
+    "row_context": "Nov-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 38.4,
+    "unit": "",
+    "row_context": "Nov-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 40.9,
+    "unit": "",
+    "row_context": "Nov-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Nov-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Nov-23 | Bulk Packing I"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 23.0,
+    "unit": "",
+    "row_context": "Nov-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 23.2,
+    "unit": "",
+    "row_context": "Nov-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 51.1,
+    "unit": "",
+    "row_context": "Nov-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 53.4,
+    "unit": "",
+    "row_context": "Nov-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "Nov-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 3.2,
+    "unit": "",
+    "row_context": "Nov-23 | Coating VI"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 21.5,
+    "unit": "",
+    "row_context": "Nov-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 24.0,
+    "unit": "",
+    "row_context": "Nov-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 31.6,
+    "unit": "",
+    "row_context": "Nov-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 38.2,
+    "unit": "",
+    "row_context": "Nov-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 1.8,
+    "unit": "",
+    "row_context": "Nov-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.8,
+    "unit": "",
+    "row_context": "Nov-23 | Compression IV"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 20.1,
+    "unit": "",
+    "row_context": "Nov-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 20.6,
+    "unit": "",
+    "row_context": "Nov-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 48.0,
+    "unit": "",
+    "row_context": "Nov-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 49.3,
+    "unit": "",
+    "row_context": "Nov-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.2,
+    "unit": "",
+    "row_context": "Nov-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Nov-23 | Dispensing II"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_min",
+    "extracted_value": 20.8,
+    "unit": "",
+    "row_context": "Nov-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "temperature_max",
+    "extracted_value": 22.4,
+    "unit": "",
+    "row_context": "Nov-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_min",
+    "extracted_value": 49.0,
+    "unit": "",
+    "row_context": "Nov-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "relative_humidity_max",
+    "extracted_value": 52.0,
+    "unit": "",
+    "row_context": "Nov-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_min",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Nov-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "6.0 Review of Temperature, Relative Humidity, Differential Pressure and process gases",
+    "table_name": "p2_table1",
+    "parameter": "differential_pressure_max",
+    "extracted_value": 2.4,
+    "unit": "",
+    "row_context": "Nov-23 | Tablet Inspection III"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 7.0,
+    "unit": "",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.71,
+    "unit": "pH",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 6.0,
+    "unit": "pH",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.785,
+    "unit": "",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 1.003,
+    "unit": "",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 34.0,
+    "unit": "",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 102.0,
+    "unit": "",
+    "row_context": "Feb-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.69,
+    "unit": "pH",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 6.1,
+    "unit": "pH",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.625,
+    "unit": "",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 1.043,
+    "unit": "",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 34.0,
+    "unit": "",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 71.0,
+    "unit": "",
+    "row_context": "Mar-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.64,
+    "unit": "pH",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 6.1,
+    "unit": "pH",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.649,
+    "unit": "",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 1.01,
+    "unit": "",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 36.0,
+    "unit": "",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 209.0,
+    "unit": "",
+    "row_context": "Apr-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.61,
+    "unit": "pH",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 5.99,
+    "unit": "pH",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.756,
+    "unit": "",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.995,
+    "unit": "",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 66.0,
+    "unit": "",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 235.0,
+    "unit": "",
+    "row_context": "May-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 5.0,
+    "unit": "",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.61,
+    "unit": "pH",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 6.09,
+    "unit": "pH",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.745,
+    "unit": "",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.979,
+    "unit": "",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 30.0,
+    "unit": "",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 76.0,
+    "unit": "",
+    "row_context": "Jun-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 7.0,
+    "unit": "",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.55,
+    "unit": "pH",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 5.9,
+    "unit": "pH",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.763,
+    "unit": "",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.988,
+    "unit": "",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 23.0,
+    "unit": "",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 65.0,
+    "unit": "",
+    "row_context": "Jul-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 5.0,
+    "unit": "",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.57,
+    "unit": "pH",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 5.98,
+    "unit": "pH",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.738,
+    "unit": "",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.983,
+    "unit": "",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 20.0,
+    "unit": "",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 107.0,
+    "unit": "",
+    "row_context": "Aug-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.61,
+    "unit": "pH",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 6.09,
+    "unit": "pH",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.715,
+    "unit": "",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.998,
+    "unit": "",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 18.0,
+    "unit": "",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 100.0,
+    "unit": "",
+    "row_context": "Sep-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 1.0,
+    "unit": "",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.54,
+    "unit": "pH",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 6.02,
+    "unit": "pH",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.677,
+    "unit": "",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.918,
+    "unit": "",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 17.0,
+    "unit": "",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 45.0,
+    "unit": "",
+    "row_context": "Oct-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 5.0,
+    "unit": "",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.72,
+    "unit": "pH",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 5.99,
+    "unit": "pH",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.675,
+    "unit": "",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.989,
+    "unit": "",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 7.0,
+    "unit": "",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 41.0,
+    "unit": "",
+    "row_context": "Nov-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 1.0,
+    "unit": "",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.61,
+    "unit": "pH",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 5.91,
+    "unit": "pH",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.602,
+    "unit": "",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.992,
+    "unit": "",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 3.0,
+    "unit": "",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 25.0,
+    "unit": "",
+    "row_context": "Dec-23 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_min",
+    "extracted_value": 0.0,
+    "unit": "",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "microbial_count_max",
+    "extracted_value": 2.0,
+    "unit": "",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_min",
+    "extracted_value": 5.66,
+    "unit": "pH",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "ph_max",
+    "extracted_value": 5.89,
+    "unit": "pH",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 0.564,
+    "unit": "",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 0.927,
+    "unit": "",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_min",
+    "extracted_value": 5.0,
+    "unit": "",
+    "row_context": "Jan-24 | 0"
+  },
+  {
+    "section_heading": "7.0 Review of Purified Water System",
+    "table_name": "p3_table1",
+    "parameter": "conductivity_max",
+    "extracted_value": 36.0,
+    "unit": "",
+    "row_context": "Jan-24 | 0"
+  }
+]

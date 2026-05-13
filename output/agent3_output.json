@@ -1,0 +1,128 @@
+[
+  {
+    "parameter": "microbial_count_min",
+    "section": "7.0 Review of Purified Water System",
+    "unit": null,
+    "count": 12,
+    "mean": 0.0,
+    "median": 0.0,
+    "mode": 0.0,
+    "std_dev": 0.0,
+    "min_value": 0.0,
+    "max_value": 0.0,
+    "cpk": null,
+    "trend": "STABLE",
+    "pass_count": 12,
+    "fail_count": 0,
+    "insight": "microbial_count_min remained stable across all observations and within the compliance range.",
+    "chart_files": [
+      "output/charts/run_chart_microbial_count_min.png",
+      "output/charts/bar_chart_pass_fail.png"
+    ]
+  },
+  {
+    "parameter": "microbial_count_max",
+    "section": "7.0 Review of Purified Water System",
+    "unit": null,
+    "count": 12,
+    "mean": 3.5,
+    "median": 2.5,
+    "mode": 2.0,
+    "std_dev": 2.195,
+    "min_value": 1.0,
+    "max_value": 7.0,
+    "cpk": null,
+    "trend": "DECREASING",
+    "pass_count": 12,
+    "fail_count": 0,
+    "insight": "microbial_count_max shows high variability (CV=62.7%). Root cause investigation recommended.",
+    "chart_files": [
+      "output/charts/run_chart_microbial_count_max.png",
+      "output/charts/bar_chart_pass_fail.png"
+    ]
+  },
+  {
+    "parameter": "ph_min",
+    "section": "7.0 Review of Purified Water System",
+    "unit": "pH",
+    "count": 12,
+    "mean": 5.6267,
+    "median": 5.61,
+    "mode": 5.61,
+    "std_dev": 0.0593,
+    "min_value": 5.54,
+    "max_value": 5.72,
+    "cpk": null,
+    "trend": "STABLE",
+    "pass_count": 12,
+    "fail_count": 0,
+    "insight": "ph_min remained stable across all observations and within the compliance range.",
+    "chart_files": [
+      "output/charts/run_chart_ph_min.png",
+      "output/charts/bar_chart_pass_fail.png"
+    ]
+  },
+  {
+    "parameter": "ph_max",
+    "section": "7.0 Review of Purified Water System",
+    "unit": "pH",
+    "count": 12,
+    "mean": 6.005,
+    "median": 5.995,
+    "mode": 6.1,
+    "std_dev": 0.0781,
+    "min_value": 5.89,
+    "max_value": 6.1,
+    "cpk": null,
+    "trend": "STABLE",
+    "pass_count": 12,
+    "fail_count": 0,
+    "insight": "ph_max remained stable across all observations and within the compliance range.",
+    "chart_files": [
+      "output/charts/run_chart_ph_max.png",
+      "output/charts/bar_chart_pass_fail.png"
+    ]
+  },
+  {
+    "parameter": "conductivity_min",
+    "section": "7.0 Review of Purified Water System",
+    "unit": null,
+    "count": 24,
+    "mean": 12.5539,
+    "median": 1.8925,
+    "mode": 34.0,
+    "std_dev": 17.0834,
+    "min_value": 0.564,
+    "max_value": 66.0,
+    "cpk": null,
+    "trend": "DECREASING",
+    "pass_count": 24,
+    "fail_count": 0,
+    "insight": "conductivity_min shows a decreasing trend - risk of dropping below the minimum limit.",
+    "chart_files": [
+      "output/charts/run_chart_conductivity_min.png",
+      "output/charts/bar_chart_pass_fail.png"
+    ]
+  },
+  {
+    "parameter": "conductivity_max",
+    "section": "7.0 Review of Purified Water System",
+    "unit": null,
+    "count": 24,
+    "mean": 46.826,
+    "median": 13.0215,
+    "mode": 1.003,
+    "std_dev": 65.5463,
+    "min_value": 0.918,
+    "max_value": 235.0,
+    "cpk": null,
+    "trend": "STABLE",
+    "pass_count": 12,
+    "fail_count": 12,
+    "insight": "conductivity_max had 12/24 failures - high non-compliance rate detected.",
+    "chart_files": [
+      "output/charts/run_chart_conductivity_max.png",
+      "output/charts/bar_chart_pass_fail.png"
+    ]
+  }
+]
